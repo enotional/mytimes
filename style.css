@@ -62,3 +62,7 @@ div {
 .column.small {
   width: 240px;
 }
+.stories {
+  display: flex;
+  direction: column;
+}
